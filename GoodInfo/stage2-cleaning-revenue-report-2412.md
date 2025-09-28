@@ -2,11 +2,11 @@
 authors: [wenchiehlee]
 date: 2025-09-28
 categories:
-  - 股票
+  - 投資
   - 月營收
 tags:
   - 股票
-  - 月營收
+  - 投資
 title: 月營收表 中華電 (2412)
 comments: false
 draft: false
@@ -19,7 +19,7 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2025/08  
-    **:clock3: 更新時間**: 2025-09-28 11:28:17 CST
+    **:clock3: 更新時間**: 2025-09-28 11:53:33 CST
 
 ## :bar_chart: 績效概覽
 
@@ -311,58 +311,71 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 ## :art: 顏色編碼系統
 
-!!! info "多層次色彩說明系統"
-    === "營收成長率 (反向強度系統)"
-        - <span style="color: #FF7F7F; font-weight: bold;">淺紅色 (50%+)</span>: 優異但需關注可持續性
-        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (40-50%)</span>: 表現非常強勁
-        - <span style="color: #FF4500; font-weight: bold;">橘紅色 (30-40%)</span>: 表現強勁
-        - <span style="color: #DC143C; font-weight: bold;">深紅色 (20-30%)</span>: 表現良好
-        - <span style="color: #B22222; font-weight: bold;">磚紅色 (10-20%)</span>: 表現中等
-        - <span style="color: #8B0000; font-weight: bold;">暗紅色 (0-10%)</span>: **警示：成長力道不足**
+!!! info "統一紅綠光譜色彩系統"
+    === "營收成長率色彩 (紅綠光譜)"
+        **正值區間 (紅色系 - 表現優異)**:
+        - <span style="color: #FF7F7F; font-weight: bold;">淺紅色 (50%+)</span>: 極高成長但需關注可持續性
+        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (40-50%)</span>: 非常強勁成長
+        - <span style="color: #FF4500; font-weight: bold;">橘紅色 (30-40%)</span>: 強勁成長
+        - <span style="color: #DC143C; font-weight: bold;">深紅色 (20-30%)</span>: 良好成長
+        - <span style="color: #B22222; font-weight: bold;">磚紅色 (10-20%)</span>: 中等成長
+        - <span style="color: #8B0000; font-weight: bold;">暗紅色 (0-10%)</span>: 微幅成長
+        
+        **零成長**: <span style="color: #000000; font-weight: bold;">黑色 (0%)</span>
+        
+        **負值區間 (綠色系 - 表現不佳)**:
+        - <span style="color: #002818; font-weight: bold;">最深綠 (0 to -10%)</span>: 輕微下滑
+        - <span style="color: #004225; font-weight: bold;">很深綠 (-10 to -20%)</span>: 明顯下滑
+        - <span style="color: #006400; font-weight: bold;">深綠色 (-20 to -30%)</span>: 嚴重下滑
+        - <span style="color: #228B22; font-weight: bold;">森林綠 (-30 to -40%)</span>: 大幅衰退
+        - <span style="color: #32CD32; font-weight: bold;">萊姆綠 (-40 to -50%)</span>: 極大衰退
+        - <span style="color: #90EE90; font-weight: bold;">淺綠色 (-50%+)</span>: 極度衰退
 
     === "EPS統計色彩 (紅綠光譜)"
-        **高於平均值區間 (紅色系)**:
-        - <span style="color: #FF7F7F; font-weight: bold;">淺紅色 (≥3σ)</span>: 極優異EPS
-        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (2-3σ)</span>: 非常優秀
-        - <span style="color: #FF4500; font-weight: bold;">橘紅色 (1.5-2σ)</span>: 優秀
-        - <span style="color: #DC143C; font-weight: bold;">深紅色 (1-1.5σ)</span>: 良好
-        - <span style="color: #B22222; font-weight: bold;">磚紅色 (0.5-1σ)</span>: 高於均值
-        - <span style="color: #8B0000; font-weight: bold;">暗紅色 (0-0.5σ)</span>: 略高於均值
+        **高於個股平均 (紅色系 - 獲利優異)**:
+        - <span style="color: #FF7F7F; font-weight: bold;">淺紅色 (≥3σ)</span>: 極優異獲利能力
+        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (2-3σ)</span>: 非常優秀獲利
+        - <span style="color: #FF4500; font-weight: bold;">橘紅色 (1.5-2σ)</span>: 優秀獲利
+        - <span style="color: #DC143C; font-weight: bold;">深紅色 (1-1.5σ)</span>: 良好獲利
+        - <span style="color: #B22222; font-weight: bold;">磚紅色 (0.5-1σ)</span>: 高於平均
+        - <span style="color: #8B0000; font-weight: bold;">暗紅色 (0-0.5σ)</span>: 略高於平均
         
-        **平均值**: <span style="color: #000000; font-weight: bold;">黑色 (0σ)</span>
+        **個股平均**: <span style="color: #000000; font-weight: bold;">黑色 (0σ)</span>
         
-        **低於平均值區間 (綠色系)**:
-        - <span style="color: #002818; font-weight: bold;">最深綠 (-0.5 to 0σ)</span>: 略低於均值
-        - <span style="color: #004225; font-weight: bold;">很深綠 (-1 to -0.5σ)</span>: 低於均值
-        - <span style="color: #006400; font-weight: bold;">深綠 (-1.5 to -1σ)</span>: 較差
-        - <span style="color: #228B22; font-weight: bold;">森林綠 (-2 to -1.5σ)</span>: 差
-        - <span style="color: #32CD32; font-weight: bold;">萊姆綠 (-3 to -2σ)</span>: 很差
-        - <span style="color: #90EE90; font-weight: bold;">淺綠 (≤-3σ)</span>: 極差EPS
+        **低於個股平均 (綠色系 - 獲利不佳)**:
+        - <span style="color: #002818; font-weight: bold;">最深綠 (-0.5 to 0σ)</span>: 略低於平均
+        - <span style="color: #004225; font-weight: bold;">很深綠 (-1 to -0.5σ)</span>: 低於平均
+        - <span style="color: #006400; font-weight: bold;">深綠色 (-1.5 to -1σ)</span>: 獲利較差
+        - <span style="color: #228B22; font-weight: bold;">森林綠 (-2 to -1.5σ)</span>: 獲利差
+        - <span style="color: #32CD32; font-weight: bold;">萊姆綠 (-3 to -2σ)</span>: 獲利很差
+        - <span style="color: #90EE90; font-weight: bold;">淺綠色 (≤-3σ)</span>: 獲利極差
 
-    === "P/E倍數統計色彩 (綠紅光譜) - 已修正"
-        **低於平均值區間 (綠色系 - 低估值好)**:
-        - <span style="color: #90EE90; font-weight: bold;">淺綠色 (≤-3σ)</span>: 極度低估值
-        - <span style="color: #32CD32; font-weight: bold;">萊姆綠 (-3 to -2σ)</span>: 很好的價值
-        - <span style="color: #228B22; font-weight: bold;">森林綠 (-2 to -1.5σ)</span>: 好價值
-        - <span style="color: #006400; font-weight: bold;">深綠 (-1.5 to -1σ)</span>: 低於平均P/E
-        - <span style="color: #004225; font-weight: bold;">很深綠 (-1 to -0.5σ)</span>: 稍便宜
-        - <span style="color: #002818; font-weight: bold;">最深綠 (-0.5 to 0σ)</span>: 剛低於平均
+    === "P/E倍數統計色彩 (紅綠光譜 - 成長導向)"
+        **高於個股平均 (紅色系 - 成長潛力)**:
+        - <span style="color: #FF7F7F; font-weight: bold;">淺紅色 (≥3σ)</span>: 極高成長預期
+        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (2-3σ)</span>: 強烈成長信心
+        - <span style="color: #FF4500; font-weight: bold;">橘紅色 (1.5-2σ)</span>: 成長型股票
+        - <span style="color: #DC143C; font-weight: bold;">深紅色 (1-1.5σ)</span>: 市場看好
+        - <span style="color: #B22222; font-weight: bold;">磚紅色 (0.5-1σ)</span>: 高於平均
+        - <span style="color: #8B0000; font-weight: bold;">暗紅色 (0-0.5σ)</span>: 略高於平均
         
-        **平均值**: <span style="color: #000000; font-weight: bold;">黑色 (0σ)</span>
+        **個股平均**: <span style="color: #000000; font-weight: bold;">黑色 (0σ)</span>
         
-        **高於平均值區間 (紅色系 - 高估值警告)**:
-        - <span style="color: #8B0000; font-weight: bold;">暗紅 (0 to 0.5σ)</span>: 稍貴
-        - <span style="color: #B22222; font-weight: bold;">磚紅 (0.5 to 1σ)</span>: 高於平均
-        - <span style="color: #DC143C; font-weight: bold;">深紅 (1 to 1.5σ)</span>: 貴
-        - <span style="color: #FF4500; font-weight: bold;">橘紅 (1.5 to 2σ)</span>: 很貴
-        - <span style="color: #FF6347; font-weight: bold;">番茄紅 (2 to 3σ)</span>: 高估
-        - <span style="color: #FF7F7F; font-weight: bold;">淺紅 (≥3σ)</span>: 極度高估
+        **低於個股平均 (綠色系 - 成長性不足)**:
+        - <span style="color: #002818; font-weight: bold;">最深綠 (-0.5 to 0σ)</span>: 略低於平均
+        - <span style="color: #004225; font-weight: bold;">很深綠 (-1 to -0.5σ)</span>: 低於平均
+        - <span style="color: #006400; font-weight: bold;">深綠色 (-1.5 to -1σ)</span>: 成長性有限
+        - <span style="color: #228B22; font-weight: bold;">森林綠 (-2 to -1.5σ)</span>: 成長動能不足
+        - <span style="color: #32CD32; font-weight: bold;">萊姆綠 (-3 to -2σ)</span>: 缺乏成長想像
+        - <span style="color: #90EE90; font-weight: bold;">淺綠色 (≤-3σ)</span>: 價值陷阱風險
 
-    === "統計色彩設計理念"
-        - **標準差分層**: 基於個股EPS和P/E分布的統計分析
-        - **相對評價**: 與該股票歷史表現比較的相對位置
-        - **風險指示**: 極端值(±3σ)可能存在數據異常或特殊情況
-        - **投資參考**: 結合EPS(獲利能力)和P/E(估值水準)進行綜合判斷
+    === "紅綠光譜設計邏輯"
+        - **紅色系**: 表示「優異」、「正面」、「市場青睞」
+        - **綠色系**: 表示「不佳」、「負面」、「市場冷淡」  
+        - **成長導向**: P/E採用成長投資觀點，高P/E反映市場對未來成長的信心
+        - **統計基準**: EPS和P/E使用個股歷史統計基準(±3σ)
+        - **絕對基準**: 營收成長率使用絕對百分比基準
+        - **風險提醒**: 極高P/E值仍需注意泡沫風險
 
 ---
 
@@ -370,7 +383,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-09-28 11:28:17 CST
+- **產生時間**: 2025-09-28 11:53:33 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版)
 - **報告類型**: 完整歷史報告
 
