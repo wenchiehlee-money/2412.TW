@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-09-28
+date: 2025-09-29
 categories:
   - 股票
   - 月營收
@@ -19,7 +19,7 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2025/08  
-    **:clock3: 更新時間**: 2025-09-28 22:00:47 CST
+    **:clock3: 更新時間**: 2025-09-29 11:27:13 CST
 
 ## :bar_chart: 績效概覽
 
@@ -384,7 +384,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-09-28 22:00:47 CST
+- **產生時間**: 2025-09-29 11:27:13 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
