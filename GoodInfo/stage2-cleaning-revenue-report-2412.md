@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2025-11-02
+date: 2025-11-03
 categories:
   - 股票
   - 月營收
@@ -19,13 +19,13 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2025/09  
-    **:clock3: 更新時間**: 2025-11-02 11:35:18 CST
+    **:clock3: 更新時間**: 2025-11-03 11:39:21 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #8B0000; font-weight: bold;">+3.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | **240** 個月 | 2005/10 至 2025/09 |
+| <span style="color: #8B0000; font-weight: bold;">+3.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | **239** 個月 | 2005/11 至 2025/09 |
 
 
 ## :chart_with_upwards_trend: 個股統計基準 (中華電) - 非對稱分布
@@ -288,7 +288,6 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2006/01** | **-** | N/A | N/A | **56.4** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #228B22; font-weight: bold;">11.48</span> |
 | **2005/12** | **-** | N/A | N/A | **56.8** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #228B22; font-weight: bold;">11.5</span> |
 | **2005/11** | **-** | N/A | N/A | **57** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #228B22; font-weight: bold;">11.54</span> |
-| **2005/10** | **-** | N/A | N/A | **56.8** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #228B22; font-weight: bold;">11.5</span> |
 
 </div>
 
@@ -384,7 +383,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告產生資訊**
 
-- **產生時間**: 2025-11-02 11:35:18 CST
+- **產生時間**: 2025-11-03 11:39:21 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
