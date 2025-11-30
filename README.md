@@ -1,5 +1,7 @@
 # 2412.TW
 Working space for 2412.TW
+
+See `AGENTS.md` for contributor and repository guidelines.
 ## Source
 ### Company
 * https://www.cht.com.tw/en/home/cht/investors/financials/monthly-updates
