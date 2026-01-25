@@ -21,11 +21,11 @@ description: 月營收表 中華電 (2412) - 自動產生
 </style>
 # :chart_with_upwards_trend: 中華電 (2412) 月營收報告
 
-!!! info "公司基本資訊"
+!!! info "基本資訊"
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-01-25 12:21:33 CST
+    **:clock3: 更新時間**: 2026-01-25 20:24:28 CST
 
 ## :bar_chart: 績效概覽
 
@@ -324,7 +324,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 ## :information_source: 說明指南
 
-!!! warning "資料說明"
+!!! note "資料來源說明"
     - 營收數據優先使用**合併營業收入**，若無則使用**個體營業收入**
     - 年增率為與去年同期比較的成長率
     - 累計年增為年初至今的累計成長率
@@ -412,9 +412,9 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 <div class="result" markdown>
 
-:material-information-outline: **報告產生資訊**
+:material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-01-25 12:21:33 CST
+- **產生時間**: 2026-01-25 20:24:28 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
