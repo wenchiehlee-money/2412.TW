@@ -25,7 +25,7 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-02 01:00:31 CST
+    **:clock3: 更新時間**: 2026-02-02 03:10:52 CST
 
 ## :bar_chart: 績效概覽
 
@@ -62,15 +62,15 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
-| **EPS(元)** | **4.55** | **4.86** | **5.33** |
-| **P/E倍數** | **15.22** | **20.04** | **24.99** |
+| **EPS(元)** | **4.55** | **4.86** | **5.32** |
+| **P/E倍數** | **15.26** | **20.10** | **25.01** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
     - **EPSbase**: 中華電 歷史平均獲利能力 (σup=0.47, σlo=0.31)
-    - **P/Ebase**: 中華電 歷史平均估值水準 (σup=4.95, σlo=4.81)
+    - **P/Ebase**: 中華電 歷史平均估值水準 (σup=4.92, σlo=4.83)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -236,7 +236,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2013/02** | **192.5** | <span style="color: #8B0000; font-weight: bold;">+6.6</span> | <span style="color: #8B0000; font-weight: bold;">+4.1</span> | **92.2** | <span style="color: #B22222; font-weight: bold;">5.23</span> | <span style="color: #004225; font-weight: bold;">17.63</span> |
 | **2013/01** | **198.7** | <span style="color: #8B0000; font-weight: bold;">+1.79</span> | <span style="color: #8B0000; font-weight: bold;">+1.79</span> | **94** | <span style="color: #B22222; font-weight: bold;">5.24</span> | <span style="color: #002818; font-weight: bold;">17.93</span> |
 | **2012/12** | **-** | N/A | N/A | **94.5** | <span style="color: #B22222; font-weight: bold;">5.25</span> | <span style="color: #002818; font-weight: bold;">17.99</span> |
-| **2012/11** | **-** | N/A | N/A | **93.9** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #002818; font-weight: bold;">17.66</span> |
+| **2012/11** | **-** | N/A | N/A | **93.9** | <span style="color: #B22222; font-weight: bold;">5.32</span> | <span style="color: #004225; font-weight: bold;">17.66</span> |
 | **2012/10** | **-** | N/A | N/A | **91.6** | <span style="color: #DC143C; font-weight: bold;">5.38</span> | <span style="color: #004225; font-weight: bold;">17.01</span> |
 | **2012/09** | **-** | N/A | N/A | **93.9** | <span style="color: #DC143C; font-weight: bold;">5.45</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
 | **2012/08** | **-** | N/A | N/A | **90.5** | <span style="color: #DC143C; font-weight: bold;">5.52</span> | <span style="color: #004225; font-weight: bold;">16.41</span> |
@@ -251,12 +251,12 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2011/11** | **-** | N/A | N/A | **99.6** | <span style="color: #FF6347; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">16.75</span> |
 | **2011/10** | **-** | N/A | N/A | **100.5** | <span style="color: #FF6347; font-weight: bold;">5.85</span> | <span style="color: #004225; font-weight: bold;">17.17</span> |
 | **2011/09** | **-** | N/A | N/A | **101.5** | <span style="color: #FF4500; font-weight: bold;">5.76</span> | <span style="color: #004225; font-weight: bold;">17.63</span> |
-| **2011/08** | **-** | N/A | N/A | **99.9** | <span style="color: #FF4500; font-weight: bold;">5.66</span> | <span style="color: #002818; font-weight: bold;">17.64</span> |
+| **2011/08** | **-** | N/A | N/A | **99.9** | <span style="color: #FF4500; font-weight: bold;">5.66</span> | <span style="color: #004225; font-weight: bold;">17.64</span> |
 | **2011/07** | **-** | N/A | N/A | **100** | <span style="color: #FF4500; font-weight: bold;">5.57</span> | <span style="color: #002818; font-weight: bold;">17.96</span> |
 | **2011/06** | **-** | N/A | N/A | **98.8** | <span style="color: #DC143C; font-weight: bold;">5.48</span> | <span style="color: #002818; font-weight: bold;">18.05</span> |
 | **2011/05** | **-** | N/A | N/A | **93.6** | <span style="color: #DC143C; font-weight: bold;">5.38</span> | <span style="color: #004225; font-weight: bold;">17.4</span> |
 | **2011/04** | **-** | N/A | N/A | **91.1** | <span style="color: #B22222; font-weight: bold;">5.29</span> | <span style="color: #004225; font-weight: bold;">17.23</span> |
-| **2011/03** | **-** | N/A | N/A | **91.6** | <span style="color: #B22222; font-weight: bold;">5.19</span> | <span style="color: #002818; font-weight: bold;">17.64</span> |
+| **2011/03** | **-** | N/A | N/A | **91.6** | <span style="color: #B22222; font-weight: bold;">5.19</span> | <span style="color: #004225; font-weight: bold;">17.64</span> |
 | **2011/02** | **-** | N/A | N/A | **88.1** | <span style="color: #B22222; font-weight: bold;">5.1</span> | <span style="color: #004225; font-weight: bold;">17.28</span> |
 | **2011/01** | **-** | N/A | N/A | **89.2** | <span style="color: #8B0000; font-weight: bold;">5.0</span> | <span style="color: #002818; font-weight: bold;">17.83</span> |
 | **2010/12** | **-** | N/A | N/A | **74.1** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #006400; font-weight: bold;">15.09</span> |
@@ -318,7 +318,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2006/04** | **-** | N/A | N/A | **61.3** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">13.24</span> |
 | **2006/03** | **-** | N/A | N/A | **61.2** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">13.22</span> |
 | **2006/02** | **-** | N/A | N/A | **59.3** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #228B22; font-weight: bold;">12.81</span> |
-| **2006/01** | **-** | N/A | N/A | **56.4** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #228B22; font-weight: bold;">12.18</span> |
+| **2006/01** | **-** | N/A | N/A | **56.4** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-02 01:00:31 CST
+- **產生時間**: 2026-02-02 03:10:52 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
