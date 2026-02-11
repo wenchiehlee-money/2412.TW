@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-02-11
+date: 2026-02-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 中華電 (2412) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
-    **:calendar: 最新資料**: 2025/12  
-    **:clock3: 更新時間**: 2026-02-11 22:04:21 CST
+    **:calendar: 最新資料**: 2026/01  
+    **:clock3: 更新時間**: 2026-02-12 05:12:39 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #002818; font-weight: bold;">-6.75</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **239** 個月 | 2006/02 至 2025/12 |
+| <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **240** 個月 | 2006/02 至 2026/01 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -41,20 +41,20 @@ description: 月營收表 中華電 (2412) - 自動產生
     - 括號內為年增率 (%)
     - 顏色編碼：正值為紅色系，負值為綠色系
 
-| 營收(年增) | **2025** | **2024** | **2023** | **2022** | **2021** |
+| 營收(年增) | **2026** | **2025** | **2024** | **2023** | **2022** |
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
-| **12月** | 23,260<br/><span style="color: #002818;">(-6.75%)</span> | 24,950<br/><span style="color: #B22222;">(+12.40%)</span> | 22,190<br/><span style="color: #8B0000;">(+5.87%)</span> | 20,960<br/><span style="color: #002818;">(-7.77%)</span> | 22,730<br/><span style="color: #002818;">(-7.56%)</span> |
-| **11月** | 21,450<br/><span style="color: #8B0000;">(+6.06%)</span> | 20,230<br/><span style="color: #002818;">(-0.01%)</span> | 20,230<br/><span style="color: #8B0000;">(+4.76%)</span> | 19,310<br/><span style="color: #8B0000;">(+5.84%)</span> | 18,240<br/><span style="color: #8B0000;">(+0.32%)</span> |
-| **10月** | 20,930<br/><span style="color: #8B0000;">(+4.04%)</span> | 20,120<br/><span style="color: #8B0000;">(+3.46%)</span> | 19,440<br/><span style="color: #8B0000;">(+1.11%)</span> | 19,230<br/><span style="color: #8B0000;">(+1.63%)</span> | 18,920<br/><span style="color: #B22222;">(+13.20%)</span> |
-| **9月** | 20,190<br/><span style="color: #8B0000;">(+3.60%)</span> | 19,490<br/><span style="color: #8B0000;">(+5.32%)</span> | 18,500<br/><span style="color: #002818;">(-2.55%)</span> | 18,990<br/><span style="color: #8B0000;">(+9.82%)</span> | 17,290<br/><span style="color: #002818;">(-8.39%)</span> |
-| **8月** | 18,560<br/><span style="color: #8B0000;">(+1.09%)</span> | 18,360<br/><span style="color: #8B0000;">(+4.07%)</span> | 17,640<br/><span style="color: #8B0000;">(+1.72%)</span> | 17,340<br/><span style="color: #8B0000;">(+1.77%)</span> | 17,040<br/><span style="color: #8B0000;">(+0.19%)</span> |
-| **7月** | 19,180<br/><span style="color: #8B0000;">(+7.92%)</span> | 17,770<br/><span style="color: #8B0000;">(+1.43%)</span> | 17,520<br/><span style="color: #8B0000;">(+1.95%)</span> | 17,180<br/><span style="color: #8B0000;">(+3.76%)</span> | 16,560<br/><span style="color: #8B0000;">(+1.62%)</span> |
-| **6月** | 19,160<br/><span style="color: #8B0000;">(+5.80%)</span> | 18,110<br/><span style="color: #002818;">(-2.93%)</span> | 18,650<br/><span style="color: #8B0000;">(+7.28%)</span> | 17,390<br/><span style="color: #8B0000;">(+2.73%)</span> | 16,920<br/><span style="color: #8B0000;">(+5.91%)</span> |
-| **5月** | 18,520<br/><span style="color: #8B0000;">(+2.45%)</span> | 18,080<br/><span style="color: #8B0000;">(+1.97%)</span> | 17,730<br/><span style="color: #8B0000;">(+1.62%)</span> | 17,450<br/><span style="color: #8B0000;">(+6.79%)</span> | 16,340<br/><span style="color: #8B0000;">(+1.39%)</span> |
-| **4月** | 19,050<br/><span style="color: #8B0000;">(+6.24%)</span> | 17,930<br/><span style="color: #8B0000;">(+4.97%)</span> | 17,080<br/><span style="color: #002818;">(-2.96%)</span> | 17,600<br/><span style="color: #8B0000;">(+7.72%)</span> | 16,340<br/><span style="color: #8B0000;">(+3.96%)</span> |
-| **3月** | 19,330<br/><span style="color: #8B0000;">(+5.39%)</span> | 18,340<br/><span style="color: #002818;">(-0.93%)</span> | 18,510<br/><span style="color: #8B0000;">(+6.86%)</span> | 17,320<br/><span style="color: #8B0000;">(+6.77%)</span> | 16,219<br/><span style="color: #8B0000;">(+4.16%)</span> |
-| **2月** | 18,290<br/><span style="color: #002818;">(-2.07%)</span> | 18,670<br/><span style="color: #8B0000;">(+4.13%)</span> | 17,930<br/><span style="color: #8B0000;">(+8.32%)</span> | 16,550<br/><span style="color: #002818;">(-1.20%)</span> | 16,760<br/><span style="color: #8B0000;">(+5.53%)</span> |
-| **1月** | 18,190<br/><span style="color: #8B0000;">(+1.47%)</span> | 17,930<br/><span style="color: #8B0000;">(+0.92%)</span> | 17,760<br/><span style="color: #8B0000;">(+1.99%)</span> | 17,420<br/><span style="color: #8B0000;">(+1.73%)</span> | 17,120<br/><span style="color: #8B0000;">(+2.53%)</span> |
+| **12月** | -- | 23,260<br/><span style="color: #002818;">(-6.75%)</span> | 24,950<br/><span style="color: #B22222;">(+12.40%)</span> | 22,190<br/><span style="color: #8B0000;">(+5.87%)</span> | 20,960<br/><span style="color: #002818;">(-7.77%)</span> |
+| **11月** | -- | 21,450<br/><span style="color: #8B0000;">(+6.06%)</span> | 20,230<br/><span style="color: #002818;">(-0.01%)</span> | 20,230<br/><span style="color: #8B0000;">(+4.76%)</span> | 19,310<br/><span style="color: #8B0000;">(+5.84%)</span> |
+| **10月** | -- | 20,930<br/><span style="color: #8B0000;">(+4.04%)</span> | 20,120<br/><span style="color: #8B0000;">(+3.46%)</span> | 19,440<br/><span style="color: #8B0000;">(+1.11%)</span> | 19,230<br/><span style="color: #8B0000;">(+1.63%)</span> |
+| **9月** | -- | 20,190<br/><span style="color: #8B0000;">(+3.60%)</span> | 19,490<br/><span style="color: #8B0000;">(+5.32%)</span> | 18,500<br/><span style="color: #002818;">(-2.55%)</span> | 18,990<br/><span style="color: #8B0000;">(+9.82%)</span> |
+| **8月** | -- | 18,560<br/><span style="color: #8B0000;">(+1.09%)</span> | 18,360<br/><span style="color: #8B0000;">(+4.07%)</span> | 17,640<br/><span style="color: #8B0000;">(+1.72%)</span> | 17,340<br/><span style="color: #8B0000;">(+1.77%)</span> |
+| **7月** | -- | 19,180<br/><span style="color: #8B0000;">(+7.92%)</span> | 17,770<br/><span style="color: #8B0000;">(+1.43%)</span> | 17,520<br/><span style="color: #8B0000;">(+1.95%)</span> | 17,180<br/><span style="color: #8B0000;">(+3.76%)</span> |
+| **6月** | -- | 19,160<br/><span style="color: #8B0000;">(+5.80%)</span> | 18,110<br/><span style="color: #002818;">(-2.93%)</span> | 18,650<br/><span style="color: #8B0000;">(+7.28%)</span> | 17,390<br/><span style="color: #8B0000;">(+2.73%)</span> |
+| **5月** | -- | 18,520<br/><span style="color: #8B0000;">(+2.45%)</span> | 18,080<br/><span style="color: #8B0000;">(+1.97%)</span> | 17,730<br/><span style="color: #8B0000;">(+1.62%)</span> | 17,450<br/><span style="color: #8B0000;">(+6.79%)</span> |
+| **4月** | -- | 19,050<br/><span style="color: #8B0000;">(+6.24%)</span> | 17,930<br/><span style="color: #8B0000;">(+4.97%)</span> | 17,080<br/><span style="color: #002818;">(-2.96%)</span> | 17,600<br/><span style="color: #8B0000;">(+7.72%)</span> |
+| **3月** | -- | 19,330<br/><span style="color: #8B0000;">(+5.39%)</span> | 18,340<br/><span style="color: #002818;">(-0.93%)</span> | 18,510<br/><span style="color: #8B0000;">(+6.86%)</span> | 17,320<br/><span style="color: #8B0000;">(+6.77%)</span> |
+| **2月** | -- | 18,290<br/><span style="color: #002818;">(-2.07%)</span> | 18,670<br/><span style="color: #8B0000;">(+4.13%)</span> | 17,930<br/><span style="color: #8B0000;">(+8.32%)</span> | 16,550<br/><span style="color: #002818;">(-1.20%)</span> |
+| **1月** | 20,410<br/><span style="color: #B22222;">(+12.20%)</span> | 18,190<br/><span style="color: #8B0000;">(+1.47%)</span> | 17,930<br/><span style="color: #8B0000;">(+0.92%)</span> | 17,760<br/><span style="color: #8B0000;">(+1.99%)</span> | 17,420<br/><span style="color: #8B0000;">(+1.73%)</span> |
 
 
 
@@ -79,6 +79,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/01** | **204.1** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">4.95</span> | <span style="color: #DC143C; font-weight: bold;">26.97</span> |
 | **2025/12** | **232.6** | <span style="color: #002818; font-weight: bold;">-6.75</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.95</span> | <span style="color: #DC143C; font-weight: bold;">26.36</span> |
 | **2025/11** | **214.5** | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | <span style="color: #8B0000; font-weight: bold;">+3.82</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #DC143C; font-weight: bold;">26.43</span> |
 | **2025/10** | **209.3** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #8B0000; font-weight: bold;">+3.57</span> | **131** | <span style="color: #8B0000; font-weight: bold;">4.92</span> | <span style="color: #DC143C; font-weight: bold;">26.6</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-02-11 22:04:21 CST
+- **產生時間**: 2026-02-12 05:12:39 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
