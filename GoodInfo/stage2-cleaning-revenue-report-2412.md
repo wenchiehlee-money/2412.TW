@@ -25,7 +25,7 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2026/01  
-    **:clock3: 更新時間**: 2026-03-02 00:57:14 CST
+    **:clock3: 更新時間**: 2026-03-02 03:08:27 CST
 
 ## :bar_chart: 績效概覽
 
@@ -63,14 +63,14 @@ description: 月營收表 中華電 (2412) - 自動產生
 | 指標 | 平均-σlo | 平均 | 平均+σup |
 |:----:|:---------:|:----:|:--------:|
 | **EPS(元)** | **4.55** | **4.86** | **5.32** |
-| **P/E倍數** | **15.26** | **20.10** | **25.01** |
+| **P/E倍數** | **15.34** | **20.15** | **25.06** |
 
 !!! tip "非對稱統計基準說明"
     - **σup (上標準差)**: 用於計算高於平均值的離散程度
     - **σlo (下標準差)**: 用於計算低於平均值的離散程度
     - **非對稱設計**: 更準確反映金融數據的偏態分布特性
-    - **EPSbase**: 中華電 歷史平均獲利能力 (σup=0.47, σlo=0.31)
-    - **P/Ebase**: 中華電 歷史平均估值水準 (σup=4.92, σlo=4.83)
+    - **EPSbase**: 中華電 歷史平均獲利能力 (σup=0.46, σlo=0.31)
+    - **P/Ebase**: 中華電 歷史平均估值水準 (σup=4.91, σlo=4.81)
 
 
 ## :moneybag: 月營收數據 (明細)
@@ -79,19 +79,19 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
-| **2026/01** | **204.1** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">4.95</span> | <span style="color: #DC143C; font-weight: bold;">26.97</span> |
-| **2025/12** | **232.6** | <span style="color: #002818; font-weight: bold;">-6.75</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.95</span> | <span style="color: #DC143C; font-weight: bold;">26.36</span> |
-| **2025/11** | **214.5** | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | <span style="color: #8B0000; font-weight: bold;">+3.82</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #DC143C; font-weight: bold;">26.43</span> |
-| **2025/10** | **209.3** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #8B0000; font-weight: bold;">+3.57</span> | **131** | <span style="color: #8B0000; font-weight: bold;">4.92</span> | <span style="color: #DC143C; font-weight: bold;">26.6</span> |
-| **2025/09** | **201.9** | <span style="color: #8B0000; font-weight: bold;">+3.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #DC143C; font-weight: bold;">27.18</span> |
-| **2025/08** | **185.6** | <span style="color: #8B0000; font-weight: bold;">+1.09</span> | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | **132.5** | <span style="color: #8B0000; font-weight: bold;">4.9</span> | <span style="color: #DC143C; font-weight: bold;">27.04</span> |
-| **2025/07** | **191.8** | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | <span style="color: #8B0000; font-weight: bold;">+3.85</span> | **129** | <span style="color: #8B0000; font-weight: bold;">4.89</span> | <span style="color: #DC143C; font-weight: bold;">26.39</span> |
-| **2025/06** | **191.6** | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | <span style="color: #8B0000; font-weight: bold;">+3.19</span> | **135** | <span style="color: #8B0000; font-weight: bold;">4.88</span> | <span style="color: #FF4500; font-weight: bold;">27.69</span> |
-| **2025/05** | **185.2** | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **129.5** | <span style="color: #8B0000; font-weight: bold;">4.86</span> | <span style="color: #DC143C; font-weight: bold;">26.63</span> |
-| **2025/04** | **190.5** | <span style="color: #8B0000; font-weight: bold;">+6.24</span> | <span style="color: #8B0000; font-weight: bold;">+2.72</span> | **129.5** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #DC143C; font-weight: bold;">26.7</span> |
-| **2025/03** | **193.3** | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | <span style="color: #8B0000; font-weight: bold;">+1.57</span> | **128.5** | <span style="color: #002818; font-weight: bold;">4.84</span> | <span style="color: #DC143C; font-weight: bold;">26.56</span> |
-| **2025/02** | **182.9** | <span style="color: #002818; font-weight: bold;">-2.07</span> | <span style="color: #002818; font-weight: bold;">-0.33</span> | **128** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #DC143C; font-weight: bold;">26.53</span> |
-| **2025/01** | **181.9** | <span style="color: #8B0000; font-weight: bold;">+1.47</span> | <span style="color: #8B0000; font-weight: bold;">+1.47</span> | **124.5** | <span style="color: #002818; font-weight: bold;">4.81</span> | <span style="color: #DC143C; font-weight: bold;">25.87</span> |
+| **2026/01** | **204.1** | <span style="color: #B22222; font-weight: bold;">+12.2</span> | <span style="color: #B22222; font-weight: bold;">+12.2</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">4.99</span> | <span style="color: #DC143C; font-weight: bold;">26.75</span> |
+| **2025/12** | **232.6** | <span style="color: #002818; font-weight: bold;">-6.75</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.99</span> | <span style="color: #DC143C; font-weight: bold;">26.15</span> |
+| **2025/11** | **214.5** | <span style="color: #8B0000; font-weight: bold;">+6.06</span> | <span style="color: #8B0000; font-weight: bold;">+3.82</span> | **130.5** | <span style="color: #8B0000; font-weight: bold;">4.97</span> | <span style="color: #DC143C; font-weight: bold;">26.24</span> |
+| **2025/10** | **209.3** | <span style="color: #8B0000; font-weight: bold;">+4.04</span> | <span style="color: #8B0000; font-weight: bold;">+3.57</span> | **131** | <span style="color: #8B0000; font-weight: bold;">4.96</span> | <span style="color: #DC143C; font-weight: bold;">26.42</span> |
+| **2025/09** | **201.9** | <span style="color: #8B0000; font-weight: bold;">+3.6</span> | <span style="color: #8B0000; font-weight: bold;">+3.51</span> | **133.5** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #DC143C; font-weight: bold;">27.01</span> |
+| **2025/08** | **185.6** | <span style="color: #8B0000; font-weight: bold;">+1.09</span> | <span style="color: #8B0000; font-weight: bold;">+3.5</span> | **132.5** | <span style="color: #8B0000; font-weight: bold;">4.93</span> | <span style="color: #DC143C; font-weight: bold;">26.89</span> |
+| **2025/07** | **191.8** | <span style="color: #8B0000; font-weight: bold;">+7.92</span> | <span style="color: #8B0000; font-weight: bold;">+3.85</span> | **129** | <span style="color: #8B0000; font-weight: bold;">4.91</span> | <span style="color: #DC143C; font-weight: bold;">26.27</span> |
+| **2025/06** | **191.6** | <span style="color: #8B0000; font-weight: bold;">+5.8</span> | <span style="color: #8B0000; font-weight: bold;">+3.19</span> | **135** | <span style="color: #8B0000; font-weight: bold;">4.89</span> | <span style="color: #FF4500; font-weight: bold;">27.58</span> |
+| **2025/05** | **185.2** | <span style="color: #8B0000; font-weight: bold;">+2.45</span> | <span style="color: #8B0000; font-weight: bold;">+2.67</span> | **129.5** | <span style="color: #8B0000; font-weight: bold;">4.88</span> | <span style="color: #DC143C; font-weight: bold;">26.54</span> |
+| **2025/04** | **190.5** | <span style="color: #8B0000; font-weight: bold;">+6.24</span> | <span style="color: #8B0000; font-weight: bold;">+2.72</span> | **129.5** | <span style="color: #002818; font-weight: bold;">4.86</span> | <span style="color: #DC143C; font-weight: bold;">26.63</span> |
+| **2025/03** | **193.3** | <span style="color: #8B0000; font-weight: bold;">+5.39</span> | <span style="color: #8B0000; font-weight: bold;">+1.57</span> | **128.5** | <span style="color: #002818; font-weight: bold;">4.85</span> | <span style="color: #DC143C; font-weight: bold;">26.51</span> |
+| **2025/02** | **182.9** | <span style="color: #002818; font-weight: bold;">-2.07</span> | <span style="color: #002818; font-weight: bold;">-0.33</span> | **128** | <span style="color: #002818; font-weight: bold;">4.83</span> | <span style="color: #DC143C; font-weight: bold;">26.49</span> |
+| **2025/01** | **181.9** | <span style="color: #8B0000; font-weight: bold;">+1.47</span> | <span style="color: #8B0000; font-weight: bold;">+1.47</span> | **124.5** | <span style="color: #002818; font-weight: bold;">4.82</span> | <span style="color: #DC143C; font-weight: bold;">25.85</span> |
 | **2024/12** | **249.5** | <span style="color: #B22222; font-weight: bold;">+12.4</span> | <span style="color: #8B0000; font-weight: bold;">+3.03</span> | **123.5** | <span style="color: #002818; font-weight: bold;">4.8</span> | <span style="color: #DC143C; font-weight: bold;">25.73</span> |
 | **2024/11** | **202.3** | <span style="color: #002818; font-weight: bold;">-0.01</span> | <span style="color: #8B0000; font-weight: bold;">+1.99</span> | **123** | <span style="color: #002818; font-weight: bold;">4.8</span> | <span style="color: #DC143C; font-weight: bold;">25.64</span> |
 | **2024/10** | **201.2** | <span style="color: #8B0000; font-weight: bold;">+3.46</span> | <span style="color: #8B0000; font-weight: bold;">+2.22</span> | **122** | <span style="color: #002818; font-weight: bold;">4.79</span> | <span style="color: #DC143C; font-weight: bold;">25.45</span> |
@@ -171,7 +171,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2018/08** | **177.8** | <span style="color: #002818; font-weight: bold;">-3.21</span> | <span style="color: #002818; font-weight: bold;">-3.38</span> | **108.5** | <span style="color: #002818; font-weight: bold;">4.72</span> | <span style="color: #B22222; font-weight: bold;">22.97</span> |
 | **2018/07** | **171.4** | <span style="color: #002818; font-weight: bold;">-7.97</span> | <span style="color: #002818; font-weight: bold;">-3.41</span> | **106** | <span style="color: #002818; font-weight: bold;">4.76</span> | <span style="color: #8B0000; font-weight: bold;">22.27</span> |
 | **2018/06** | **168.5** | <span style="color: #002818; font-weight: bold;">-9.89</span> | <span style="color: #002818; font-weight: bold;">-2.64</span> | **110** | <span style="color: #002818; font-weight: bold;">4.8</span> | <span style="color: #B22222; font-weight: bold;">22.94</span> |
-| **2018/05** | **195.1** | <span style="color: #8B0000; font-weight: bold;">+5.86</span> | <span style="color: #002818; font-weight: bold;">-1.16</span> | **109** | <span style="color: #002818; font-weight: bold;">4.83</span> | <span style="color: #B22222; font-weight: bold;">22.56</span> |
+| **2018/05** | **195.1** | <span style="color: #8B0000; font-weight: bold;">+5.86</span> | <span style="color: #002818; font-weight: bold;">-1.16</span> | **109** | <span style="color: #002818; font-weight: bold;">4.83</span> | <span style="color: #8B0000; font-weight: bold;">22.56</span> |
 | **2018/04** | **173.1** | <span style="color: #002818; font-weight: bold;">-6.7</span> | <span style="color: #002818; font-weight: bold;">-2.93</span> | **113** | <span style="color: #8B0000; font-weight: bold;">4.87</span> | <span style="color: #B22222; font-weight: bold;">23.22</span> |
 | **2018/03** | **174.9** | <span style="color: #002818; font-weight: bold;">-3.04</span> | <span style="color: #002818; font-weight: bold;">-1.65</span> | **113** | <span style="color: #8B0000; font-weight: bold;">4.9</span> | <span style="color: #B22222; font-weight: bold;">23.05</span> |
 | **2018/02** | **179.5** | <span style="color: #8B0000; font-weight: bold;">+1</span> | <span style="color: #002818; font-weight: bold;">-0.96</span> | **109.5** | <span style="color: #8B0000; font-weight: bold;">4.94</span> | <span style="color: #8B0000; font-weight: bold;">22.17</span> |
@@ -181,11 +181,11 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2017/10** | **187.9** | <span style="color: #8B0000; font-weight: bold;">+0.52</span> | <span style="color: #002818; font-weight: bold;">-2.58</span> | **103** | <span style="color: #8B0000; font-weight: bold;">5.04</span> | <span style="color: #8B0000; font-weight: bold;">20.46</span> |
 | **2017/09** | **194.3** | <span style="color: #002818; font-weight: bold;">-3.58</span> | <span style="color: #002818; font-weight: bold;">-2.92</span> | **104.5** | <span style="color: #8B0000; font-weight: bold;">5.05</span> | <span style="color: #8B0000; font-weight: bold;">20.7</span> |
 | **2017/08** | **183.7** | <span style="color: #002818; font-weight: bold;">-6.73</span> | <span style="color: #002818; font-weight: bold;">-2.84</span> | **105** | <span style="color: #8B0000; font-weight: bold;">5.06</span> | <span style="color: #8B0000; font-weight: bold;">20.75</span> |
-| **2017/07** | **186.2** | <span style="color: #002818; font-weight: bold;">-0.24</span> | <span style="color: #002818; font-weight: bold;">-2.26</span> | **102** | <span style="color: #8B0000; font-weight: bold;">5.07</span> | <span style="color: #8B0000; font-weight: bold;">20.11</span> |
+| **2017/07** | **186.2** | <span style="color: #002818; font-weight: bold;">-0.24</span> | <span style="color: #002818; font-weight: bold;">-2.26</span> | **102** | <span style="color: #8B0000; font-weight: bold;">5.07</span> | <span style="color: #002818; font-weight: bold;">20.11</span> |
 | **2017/06** | **186.9** | <span style="color: #002818; font-weight: bold;">-1.86</span> | <span style="color: #002818; font-weight: bold;">-2.59</span> | **108** | <span style="color: #8B0000; font-weight: bold;">5.08</span> | <span style="color: #8B0000; font-weight: bold;">21.24</span> |
 | **2017/05** | **184.2** | <span style="color: #002818; font-weight: bold;">-1.18</span> | <span style="color: #002818; font-weight: bold;">-2.74</span> | **107.5** | <span style="color: #B22222; font-weight: bold;">5.1</span> | <span style="color: #8B0000; font-weight: bold;">21.09</span> |
 | **2017/04** | **185.5** | <span style="color: #8B0000; font-weight: bold;">+0.27</span> | <span style="color: #002818; font-weight: bold;">-3.12</span> | **102** | <span style="color: #B22222; font-weight: bold;">5.11</span> | <span style="color: #002818; font-weight: bold;">19.96</span> |
-| **2017/03** | **180.4** | <span style="color: #002818; font-weight: bold;">-1.08</span> | <span style="color: #002818; font-weight: bold;">-4.23</span> | **103** | <span style="color: #B22222; font-weight: bold;">5.12</span> | <span style="color: #8B0000; font-weight: bold;">20.11</span> |
+| **2017/03** | **180.4** | <span style="color: #002818; font-weight: bold;">-1.08</span> | <span style="color: #002818; font-weight: bold;">-4.23</span> | **103** | <span style="color: #B22222; font-weight: bold;">5.12</span> | <span style="color: #002818; font-weight: bold;">20.11</span> |
 | **2017/02** | **177.7** | <span style="color: #002818; font-weight: bold;">-7.09</span> | <span style="color: #002818; font-weight: bold;">-5.71</span> | **102** | <span style="color: #B22222; font-weight: bold;">5.14</span> | <span style="color: #002818; font-weight: bold;">19.86</span> |
 | **2017/01** | **187.3** | <span style="color: #002818; font-weight: bold;">-4.36</span> | <span style="color: #002818; font-weight: bold;">-4.36</span> | **102** | <span style="color: #B22222; font-weight: bold;">5.15</span> | <span style="color: #002818; font-weight: bold;">19.82</span> |
 | **2016/12** | **206.9** | <span style="color: #002818; font-weight: bold;">-1.97</span> | <span style="color: #002818; font-weight: bold;">-0.78</span> | **101.5** | <span style="color: #B22222; font-weight: bold;">5.16</span> | <span style="color: #002818; font-weight: bold;">19.67</span> |
@@ -246,7 +246,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2012/05** | **-** | N/A | N/A | **90.2** | <span style="color: #FF4500; font-weight: bold;">5.71</span> | <span style="color: #004225; font-weight: bold;">15.79</span> |
 | **2012/04** | **-** | N/A | N/A | **91.4** | <span style="color: #FF4500; font-weight: bold;">5.78</span> | <span style="color: #004225; font-weight: bold;">15.82</span> |
 | **2012/03** | **-** | N/A | N/A | **90.9** | <span style="color: #FF6347; font-weight: bold;">5.84</span> | <span style="color: #004225; font-weight: bold;">15.56</span> |
-| **2012/02** | **-** | N/A | N/A | **90.4** | <span style="color: #FF6347; font-weight: bold;">5.91</span> | <span style="color: #004225; font-weight: bold;">15.3</span> |
+| **2012/02** | **-** | N/A | N/A | **90.4** | <span style="color: #FF6347; font-weight: bold;">5.91</span> | <span style="color: #006400; font-weight: bold;">15.3</span> |
 | **2012/01** | **-** | N/A | N/A | **96.2** | <span style="color: #FF6347; font-weight: bold;">5.97</span> | <span style="color: #004225; font-weight: bold;">16.1</span> |
 | **2011/12** | **-** | N/A | N/A | **100** | <span style="color: #FF6347; font-weight: bold;">6.04</span> | <span style="color: #004225; font-weight: bold;">16.56</span> |
 | **2011/11** | **-** | N/A | N/A | **99.6** | <span style="color: #FF6347; font-weight: bold;">5.95</span> | <span style="color: #004225; font-weight: bold;">16.75</span> |
@@ -318,7 +318,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2006/05** | **-** | N/A | N/A | **60** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">12.96</span> |
 | **2006/04** | **-** | N/A | N/A | **61.3** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">13.24</span> |
 | **2006/03** | **-** | N/A | N/A | **61.2** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #006400; font-weight: bold;">13.22</span> |
-| **2006/02** | **-** | N/A | N/A | **59.3** | <span style="color: #004225; font-weight: bold;">4.63</span> | <span style="color: #228B22; font-weight: bold;">12.81</span> |
+| **2006/02** | **-** | N/A | N/A | **59.3** | N/A | N/A |
 
 </div>
 
@@ -414,7 +414,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-03-02 00:57:14 CST
+- **產生時間**: 2026-03-02 03:08:27 CST
 - **資料來源**: Stage 2 資料清理營收報告系統 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
