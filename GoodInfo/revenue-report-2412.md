@@ -25,13 +25,13 @@ description: 月營收表 中華電 (2412) - 自動產生
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
     **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-10 00:45:42 CST
+    **:clock3: 更新時間**: 2026-11-10 13:10:06 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **240** 個月 | 2006/10 至 2026/09 |
+| <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **239** 個月 | 2006/11 至 2026/09 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -318,7 +318,6 @@ description: 月營收表 中華電 (2412) - 自動產生
 | **2007/01** | **154.4** | <span style="color: #8B0000; font-weight: bold;">+1.08</span> | <span style="color: #8B0000; font-weight: bold;">+1.08</span> | **63.2** | <span style="color: #006400; font-weight: bold;">63.6</span> | <span style="color: #006400; font-weight: bold;">59.4</span> |
 | **2006/12** | **164.5** | <span style="color: #8B0000; font-weight: bold;">+3.17</span> | <span style="color: #8B0000; font-weight: bold;">+0.55</span> | **60.6** | <span style="color: #228B22; font-weight: bold;">60.7</span> | <span style="color: #006400; font-weight: bold;">58.2</span> |
 | **2006/11** | **152.1** | <span style="color: #8B0000; font-weight: bold;">+0.05</span> | <span style="color: #8B0000; font-weight: bold;">+0.3</span> | **58.8** | <span style="color: #228B22; font-weight: bold;">59.7</span> | <span style="color: #228B22; font-weight: bold;">56.5</span> |
-| **2006/10** | **152.4** | <span style="color: #002818; font-weight: bold;">-0.54</span> | <span style="color: #8B0000; font-weight: bold;">+0.32</span> | **57** | <span style="color: #228B22; font-weight: bold;">58.1</span> | <span style="color: #228B22; font-weight: bold;">54.5</span> |
 
 </div>
 
@@ -414,7 +413,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-10 00:45:42 CST
+- **產生時間**: 2026-11-10 13:10:06 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
