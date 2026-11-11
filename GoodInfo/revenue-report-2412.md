@@ -1,6 +1,6 @@
 ---
 authors: [wenchiehlee]
-date: 2026-11-11
+date: 2026-11-12
 categories:
   - 股票
   - 月營收
@@ -24,14 +24,14 @@ description: 月營收表 中華電 (2412) - 自動產生
 !!! info "基本資訊"
     **:building_construction: 公司名稱**: 中華電  
     **:identification_card: 股票代號**: 2412  
-    **:calendar: 最新資料**: 2026/09  
-    **:clock3: 更新時間**: 2026-11-11 06:02:28 CST
+    **:calendar: 最新資料**: 2026/10  
+    **:clock3: 更新時間**: 2026-11-12 05:38:13 CST
 
 ## :bar_chart: 績效概覽
 
 | 最新年增率 | 累計年增率 | 資料筆數 | 資料區間 |
 |:----------:|:----------:|:--------:|:--------:|
-| <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **239** 個月 | 2006/11 至 2026/09 |
+| <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **240** 個月 | 2006/11 至 2026/10 |
 
 
 ## :calendar: 月營收表 (年度比較)
@@ -45,7 +45,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | **12月** | -- | 23,260<br/><span style="color: #002818;">(-6.75%)</span> | 24,950<br/><span style="color: #B22222;">(+12.40%)</span> | 22,190<br/><span style="color: #8B0000;">(+5.87%)</span> | 20,960<br/><span style="color: #002818;">(-7.77%)</span> |
 | **11月** | -- | 21,450<br/><span style="color: #8B0000;">(+6.06%)</span> | 20,230<br/><span style="color: #002818;">(-0.01%)</span> | 20,230<br/><span style="color: #8B0000;">(+4.76%)</span> | 19,310<br/><span style="color: #8B0000;">(+5.84%)</span> |
-| **10月** | -- | 20,930<br/><span style="color: #8B0000;">(+4.04%)</span> | 20,120<br/><span style="color: #8B0000;">(+3.46%)</span> | 19,440<br/><span style="color: #8B0000;">(+1.11%)</span> | 19,230<br/><span style="color: #8B0000;">(+1.63%)</span> |
+| **10月** | 23,750<br/><span style="color: #B22222;">(+13.40%)</span> | 20,930<br/><span style="color: #8B0000;">(+4.04%)</span> | 20,120<br/><span style="color: #8B0000;">(+3.46%)</span> | 19,440<br/><span style="color: #8B0000;">(+1.11%)</span> | 19,230<br/><span style="color: #8B0000;">(+1.63%)</span> |
 | **9月** | 24,400<br/><span style="color: #DC143C;">(+20.80%)</span> | 20,190<br/><span style="color: #8B0000;">(+3.60%)</span> | 19,490<br/><span style="color: #8B0000;">(+5.32%)</span> | 18,500<br/><span style="color: #002818;">(-2.55%)</span> | 18,990<br/><span style="color: #8B0000;">(+9.82%)</span> |
 | **8月** | 23,310<br/><span style="color: #DC143C;">(+25.60%)</span> | 18,560<br/><span style="color: #8B0000;">(+1.09%)</span> | 18,360<br/><span style="color: #8B0000;">(+4.07%)</span> | 17,640<br/><span style="color: #8B0000;">(+1.72%)</span> | 17,340<br/><span style="color: #8B0000;">(+1.77%)</span> |
 | **7月** | 19,880<br/><span style="color: #8B0000;">(+3.68%)</span> | 19,180<br/><span style="color: #8B0000;">(+7.92%)</span> | 17,770<br/><span style="color: #8B0000;">(+1.43%)</span> | 17,520<br/><span style="color: #8B0000;">(+1.95%)</span> | 17,180<br/><span style="color: #8B0000;">(+3.76%)</span> |
@@ -79,6 +79,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 | :calendar: 年月 | :money_with_wings: 月營收(億) | :chart_with_upwards_trend: 年增率 | :bar_chart: 累計年增 | :chart: 股價 | :moneybag: EPS(元) | :bar_chart: P/E倍數 |
 |:---------------:|:---------------------------:|:--------------------------------:|:-------------------:|:----------:|:-----------------:|:-----------------:|
+| **2026/10** | **237.5** | <span style="color: #B22222; font-weight: bold;">+13.4</span> | <span style="color: #B22222; font-weight: bold;">+11.1</span> | **160** | <span style="color: #FF6347; font-weight: bold;">147.0</span> | <span style="color: #FF6347; font-weight: bold;">143.0</span> |
 | **2026/09** | **244** | <span style="color: #DC143C; font-weight: bold;">+20.8</span> | <span style="color: #B22222; font-weight: bold;">+10.8</span> | **143.5** | <span style="color: #FF6347; font-weight: bold;">146.0</span> | <span style="color: #FF6347; font-weight: bold;">135.5</span> |
 | **2026/08** | **233.1** | <span style="color: #DC143C; font-weight: bold;">+25.6</span> | <span style="color: #8B0000; font-weight: bold;">+9.49</span> | **136** | <span style="color: #FF4500; font-weight: bold;">140.0</span> | <span style="color: #FF4500; font-weight: bold;">135.0</span> |
 | **2026/07** | **198.8** | <span style="color: #8B0000; font-weight: bold;">+3.68</span> | <span style="color: #8B0000; font-weight: bold;">+7.22</span> | **139.5** | <span style="color: #FF6347; font-weight: bold;">142.5</span> | <span style="color: #FF4500; font-weight: bold;">132.0</span> |
@@ -413,7 +414,7 @@ description: 月營收表 中華電 (2412) - 自動產生
 
 :material-information-outline: **報告元資訊**
 
-- **產生時間**: 2026-11-11 06:02:28 CST
+- **產生時間**: 2026-11-12 05:38:13 CST
 - **資料來源**: Stage 1 原始營收與月成交資料 (多源整合版 - 非對稱統計)
 - **報告類型**: 完整歷史報告
 
